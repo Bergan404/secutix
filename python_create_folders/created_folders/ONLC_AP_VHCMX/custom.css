@@ -1,0 +1,16 @@
+@import url("https://assets.primesport.com/prod/onlc-partners.pp-shop.secutix.com/custom/custom.css");
+
+/* SF 00331175 */
+#collapsiblePanel_secondary_content_payment_modes
+  .content
+  .visa
+  .payment_method {
+  width: 80%;
+  height: unset;
+}
+
+#collapsiblePanel_secondary_content_payment_modes ul li {
+  list-style: none;
+}
+
+/* END */
