@@ -1,0 +1,72 @@
+body {
+    background: rgb(41, 41, 41) !important;
+    height: 100vh;
+}
+
+label {
+    color: white;
+}
+
+h1 {
+    color: white !important;
+    margin-bottom: 15px !important;
+}
+
+hr {
+   color: white !important;
+}
+
+
+.msc-block {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+.specs-container {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    gap: 5px;
+}
+.remove-msc {
+    margin-top: 15px;
+    background-color: rgb(170, 0, 0);
+    color: white;
+    border: none;
+    padding: 5px;
+}
+
+.add-spec {
+    margin-top: 10px;
+}
+
+#addMSC {
+    padding: 8px !important;
+}
+
+.add-spec , #addMSC {
+    background-color: green;
+    color: white;
+    border: none;
+    padding: 5px;
+}
+
+#downloadJSON {
+    background-color: rgb(115, 115, 221);
+    color: white;
+    border: none;
+    padding: 8px;
+}
+
+input::file-selector-button {
+    background-color: rgb(165, 165, 165);
+    color: black;
+    border: none;
+    padding: 8px;
+    cursor: pointer;
+}
+
+#importJSON {
+ color: white;
+}
