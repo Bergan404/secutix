@@ -1,0 +1,95 @@
+"Installment management, payment & due reminders for payment - Pay due instalments > 30 Jun 2025, 11:47",,,
+,,,
+,,,
+Message type: Archive,,,
+,,,
+,,,
+,,,
+Number,Date,Message type,Message
+1,06/30/2025 11:47 AM,Archive,"url: [p54bil1-8i6d3f7b.oci4.sec] [SSUMNER], batchSize: 1000"
+1,06/30/2025 11:47 AM,Archive,"schedule:INSTALM_REMINDER/FILES_SALES_CHANNEL=10229208980740,10229206141024,10229206190513,10229206196779,10229206885511,627325444,10229204013256,10229206679963,10229206196789,10229206679959,10229206885515,10229206885512,10229206885497,10229206885503,10229206885496,10229206885495,10229206196777,10229206679960,10229206885498,10229206885507,10229206196792,10229206885506,10229206679961,10229206196778,10229206885513,10229208023567,10229206196780,10229206679962,10229206196775,10229206885504,102292068"
+1,06/30/2025 11:47 AM,Info,Start of instalment payments with aliases
+1,06/30/2025 11:47 AM,Archive,Order | Instalment | Rank | File | Contact number | Email | Instalment amount | Remaining amount
+1,06/30/2025 11:47 AM,Warning,"No alias available to pay instalment number 1 for [27046] from file [336,011] / order [408,998] / file contact [27046] / payer contact [27046]."
+1,06/30/2025 11:47 AM,Warning,"No alias available to pay instalment number 2 for [27046] from file [336,011] / order [408,998] / file contact [27046] / payer contact [27046]."
+1,06/30/2025 11:47 AM,Archive,"Pay with alias called with order:207,459, instalment: 10,229,208,872,198, point of sales: 10,229,206,930,641, alias: 64677303, contact: 67080, amount: 7392.00 USD"
+1,06/30/2025 11:47 AM,Info,"Order 207,459 has more than 1 processing installments. Waiting for the orchestra to be finished before starting a new one."
+1,06/30/2025 11:47 AM,Archive,207459 | 10229208872198 | 1 | 190161 | 67080 | alex.j.kamai@gmail.com | 7392.00 USD | 7392.00 USD |
+1,06/30/2025 11:47 AM,Archive,"File 190,161, Order 207,459, Payment of Installment 10,229,208,872,198 completed successfully."
+1,06/30/2025 11:47 AM,Archive,"Pay with alias called with order:207,459, instalment: 10,229,208,872,199, point of sales: 10,229,206,930,641, alias: 64677303, contact: 67080, amount: 7504.00 USD"
+1,06/30/2025 11:47 AM,Archive,207459 | 10229208872199 | 2 | 190161 | 67080 | alex.j.kamai@gmail.com | 7504.00 USD | 7504.00 USD |
+1,06/30/2025 11:47 AM,Info,"Order 207,459 has more than 1 processing installments. Waiting for the orchestra to be finished before starting a new one."
+1,06/30/2025 11:47 AM,Archive,"File 190,161, Order 207,459, Payment of Installment 10,229,208,872,199 completed successfully."
+1,06/30/2025 11:47 AM,Archive,"Pay with alias called with order:408,932, instalment: 10,229,213,978,222, point of sales: 10,229,203,950,535, alias: 1465817665, contact: 55964, amount: 759.00 USD"
+1,06/30/2025 11:47 AM,Info,"Order 408,932 has more than 1 processing installments. Waiting for the orchestra to be finished before starting a new one."
+1,06/30/2025 11:47 AM,Archive,408932 | 10229213978222 | 1 | 336028 | 55964 | johnnynle21@gmail.com | 8811.00 USD | 759.00 USD |
+1,06/30/2025 11:47 AM,Archive,"File 336,028, Order 408,932, Payment of Installment 10,229,213,978,222 completed successfully."
+1,06/30/2025 11:47 AM,Archive,"Pay with alias called with order:408,932, instalment: 10,229,213,978,223, point of sales: 10,229,203,950,535, alias: 1465817665, contact: 55964, amount: 8944.50 USD"
+1,06/30/2025 11:47 AM,Info,"Order 408,932 has more than 1 processing installments. Waiting for the orchestra to be finished before starting a new one."
+1,06/30/2025 11:47 AM,Archive,408932 | 10229213978223 | 2 | 336028 | 55964 | johnnynle21@gmail.com | 8944.50 USD | 8944.50 USD |
+1,06/30/2025 11:47 AM,Archive,"File 336,028, Order 408,932, Payment of Installment 10,229,213,978,223 completed successfully."
+1,06/30/2025 11:47 AM,Warning,"No alias available to pay instalment number 1 for [41661] from file [164,309] / order [171,873] / file contact [41661] / payer contact [41661]."
+1,06/30/2025 11:47 AM,Warning,"No alias available to pay instalment number 2 for [41661] from file [164,309] / order [171,873] / file contact [41661] / payer contact [41661]."
+1,06/30/2025 11:47 AM,Warning,"No alias available to pay instalment number 1 for [43267] from file [173,456] / order [193,734] / file contact [43267] / payer contact [43267]."
+1,06/30/2025 11:47 AM,Warning,"No alias available to pay instalment number 2 for [43267] from file [173,456] / order [193,734] / file contact [43267] / payer contact [43267]."
+1,06/30/2025 11:47 AM,Archive,"Pay with alias called with order:204,006, instalment: 10,229,208,872,170, point of sales: 10,229,206,930,641, alias: 792763255, contact: 38419, amount: 7095.00 USD"
+1,06/30/2025 11:48 AM,Info,"Order 204,006 has more than 1 processing installments. Waiting for the orchestra to be finished before starting a new one."
+1,06/30/2025 11:48 AM,Archive,204006 | 10229208872170 | 1 | 185304 | 38419 | ariksagi@gmail.com | 7095.00 USD | 7095.00 USD |
+1,06/30/2025 11:48 AM,Archive,"File 185,304, Order 204,006, Payment of Installment 10,229,208,872,170 completed successfully."
+1,06/30/2025 11:48 AM,Archive,"Pay with alias called with order:204,006, instalment: 10,229,208,872,171, point of sales: 10,229,206,930,641, alias: 792763255, contact: 38419, amount: 7202.50 USD"
+1,06/30/2025 11:48 AM,Error,"[Technical error] An error occurred while creating EPC payment for instalment 10,229,208,872,171 of order 204,006 / file 185,304. Error message: The payment 962228879 has not been authorized. The instalment has not been processed."
+1,06/30/2025 11:48 AM,Archive,"Pay with alias called with order:206,406, instalment: 10,229,208,873,388, point of sales: 10,229,206,930,641, alias: 810396872, contact: 6033, amount: 4422.00 USD"
+1,06/30/2025 11:48 AM,Archive,206406 | 10229208873388 | 1 | 189622 | 6033 | rbernar1@gmail.com | 4422.00 USD | 4422.00 USD |
+1,06/30/2025 11:48 AM,Info,"Order 206,406 has more than 1 processing installments. Waiting for the orchestra to be finished before starting a new one."
+1,06/30/2025 11:48 AM,Archive,"File 189,622, Order 206,406, Payment of Installment 10,229,208,873,388 completed successfully."
+1,06/30/2025 11:48 AM,Archive,"Pay with alias called with order:206,406, instalment: 10,229,208,873,389, point of sales: 10,229,206,930,641, alias: 810396872, contact: 6033, amount: 4489.00 USD"
+1,06/30/2025 11:48 AM,Error,"[Technical error] An error occurred while creating EPC payment for instalment 10,229,208,873,389 of order 206,406 / file 189,622. Error message: The payment 1539469251 has not been authorized. The instalment has not been processed."
+1,06/30/2025 11:48 AM,Archive,"Pay with alias called with order:171,301, instalment: 10,229,207,795,403, point of sales: 10,229,203,823,680, alias: 324475225, contact: 7546, amount: 7144.50 USD"
+1,06/30/2025 11:48 AM,Error,"[Technical error] An error occurred while creating EPC payment for instalment 10,229,207,795,403 of order 171,301 / file 162,895. Error message: The payment 1120737711 has not been authorized. The instalment has not been processed."
+1,06/30/2025 11:48 AM,Archive,"Pay with alias called with order:171,301, instalment: 10,229,207,795,404, point of sales: 10,229,203,823,680, alias: 324475225, contact: 7546, amount: 7252.75 USD"
+1,06/30/2025 11:48 AM,Error,"[Technical error] An error occurred while creating EPC payment for instalment 10,229,207,795,404 of order 171,301 / file 162,895. Error message: The payment 702006171 has not been authorized. The instalment has not been processed."
+1,06/30/2025 11:48 AM,Warning,"No alias available to pay instalment number 1 for [1464] from file [197,822] / order [217,422] / file contact [1464] / payer contact [1464]."
+1,06/30/2025 11:48 AM,Warning,"No alias available to pay instalment number 2 for [1464] from file [197,822] / order [217,422] / file contact [1464] / payer contact [1464]."
+1,06/30/2025 11:48 AM,Warning,"No alias available to pay instalment number 1 for [17564] from file [187,600] / order [213,453] / file contact [17564] / payer contact [17564]."
+1,06/30/2025 11:48 AM,Warning,"No alias available to pay instalment number 2 for [17564] from file [187,600] / order [213,453] / file contact [17564] / payer contact [17564]."
+1,06/30/2025 11:48 AM,Warning,"No alias available to pay instalment number 1 for [64834] from file [182,315] / order [209,843] / file contact [64834] / payer contact [64834]."
+1,06/30/2025 11:48 AM,Warning,"No alias available to pay instalment number 2 for [64834] from file [182,315] / order [209,843] / file contact [64834] / payer contact [64834]."
+1,06/30/2025 11:48 AM,Warning,"No alias available to pay instalment number 1 for [5888] from file [166,879] / order [177,104] / file contact [5888] / payer contact [5888]."
+1,06/30/2025 11:48 AM,Warning,"No alias available to pay instalment number 2 for [5888] from file [166,879] / order [177,104] / file contact [5888] / payer contact [5888]."
+1,06/30/2025 11:48 AM,Archive,"Pay with alias called with order:176,433, instalment: 10,229,207,911,902, point of sales: 10,229,206,930,641, alias: 2063466957, contact: 25784, amount: 9174.00 USD"
+1,06/30/2025 11:48 AM,Archive,176433 | 10229207911902 | 1 | 165963 | 25784 | angel.escalante.c@icloud.com | 9174.00 USD | 9174.00 USD |
+1,06/30/2025 11:48 AM,Info,"Order 176,433 has more than 1 processing installments. Waiting for the orchestra to be finished before starting a new one."
+1,06/30/2025 11:48 AM,Archive,"File 165,963, Order 176,433, Payment of Installment 10,229,207,911,902 completed successfully."
+1,06/30/2025 11:48 AM,Archive,"Pay with alias called with order:176,433, instalment: 10,229,207,911,903, point of sales: 10,229,206,930,641, alias: 2063466957, contact: 25784, amount: 9313.00 USD"
+1,06/30/2025 11:48 AM,Info,"Order 176,433 has more than 1 processing installments. Waiting for the orchestra to be finished before starting a new one."
+1,06/30/2025 11:48 AM,Archive,176433 | 10229207911903 | 2 | 165963 | 25784 | angel.escalante.c@icloud.com | 9313.00 USD | 9313.00 USD |
+1,06/30/2025 11:48 AM,Archive,"File 165,963, Order 176,433, Payment of Installment 10,229,207,911,903 completed successfully."
+1,06/30/2025 11:48 AM,Archive,"Pay with alias called with order:161,462, instalment: 10,229,207,083,937, point of sales: 10,229,203,823,680, alias: 2125634903, contact: 4793, amount: 11616.00 USD"
+1,06/30/2025 11:48 AM,Error,"[Technical error] An error occurred while creating EPC payment for instalment 10,229,207,083,937 of order 161,462 / file 156,560. Error message: The payment 1279246543 has not been authorized. The instalment has not been processed."
+1,06/30/2025 11:48 AM,Archive,"Pay with alias called with order:161,462, instalment: 10,229,207,083,938, point of sales: 10,229,203,823,680, alias: 2125634903, contact: 4793, amount: 11792.00 USD"
+1,06/30/2025 11:48 AM,Error,"[Technical error] An error occurred while creating EPC payment for instalment 10,229,207,083,938 of order 161,462 / file 156,560. Error message: The payment 965197888 has not been authorized. The instalment has not been processed."
+1,06/30/2025 11:48 AM,Archive,"Pay with alias called with order:214,843, instalment: 10,229,208,848,908, point of sales: 10,229,206,930,641, alias: 923063688, contact: 27845, amount: 5544.00 USD"
+1,06/30/2025 11:48 AM,Error,"[Technical error] An error occurred while creating EPC payment for instalment 10,229,208,848,908 of order 214,843 / file 195,761. Error message: The payment 651149233 has not been authorized. The instalment has not been processed."
+1,06/30/2025 11:48 AM,Archive,"Pay with alias called with order:214,843, instalment: 10,229,208,848,909, point of sales: 10,229,206,930,641, alias: 923063688, contact: 27845, amount: 5628.00 USD"
+1,06/30/2025 11:48 AM,Error,"[Technical error] An error occurred while creating EPC payment for instalment 10,229,208,848,909 of order 214,843 / file 195,761. Error message: The payment 337100578 has not been authorized. The instalment has not been processed."
+1,06/30/2025 11:48 AM,Archive,"Pay with alias called with order:175,736, instalment: 10,229,207,913,520, point of sales: 10,229,203,823,680, alias: 576457205, contact: 18784, amount: 5016.00 USD"
+1,06/30/2025 11:48 AM,Error,"[Technical error] An error occurred while creating EPC payment for instalment 10,229,207,913,520 of order 175,736 / file 165,581. Error message: The payment 2065852685 has not been authorized. The instalment has not been processed."
+1,06/30/2025 11:48 AM,Archive,"Pay with alias called with order:175,736, instalment: 10,229,207,913,521, point of sales: 10,229,203,823,680, alias: 576457205, contact: 18784, amount: 5092.00 USD"
+1,06/30/2025 11:48 AM,Error,"[Technical error] An error occurred while creating EPC payment for instalment 10,229,207,913,521 of order 175,736 / file 165,581. Error message: The payment 1856486915 has not been authorized. The instalment has not been processed."
+1,06/30/2025 11:48 AM,Archive,"Pay with alias called with order:408,954, instalment: 10,229,213,978,225, point of sales: 10,229,203,950,535, alias: 941739359, contact: 79314, amount: 29914.50 USD"
+1,06/30/2025 11:48 AM,Archive,408954 | 10229213978225 | 1 | 336405 | 79314 | pete@capgroup.com | 48312.00 USD | 29914.50 USD |
+1,06/30/2025 11:48 AM,Info,"Order 408,954 has more than 1 processing installments. Waiting for the orchestra to be finished before starting a new one."
+1,06/30/2025 11:48 AM,Archive,"File 336,405, Order 408,954, Payment of Installment 10,229,213,978,225 completed successfully."
+1,06/30/2025 11:48 AM,Archive,"Pay with alias called with order:408,954, instalment: 10,229,213,978,226, point of sales: 10,229,203,950,535, alias: 941739359, contact: 79314, amount: 49044.00 USD"
+1,06/30/2025 11:48 AM,Archive,408954 | 10229213978226 | 2 | 336405 | 79314 | pete@capgroup.com | 49044.00 USD | 49044.00 USD |
+1,06/30/2025 11:48 AM,Info,"Order 408,954 has more than 1 processing installments. Waiting for the orchestra to be finished before starting a new one."
+1,06/30/2025 11:48 AM,Archive,"File 336,405, Order 408,954, Payment of Installment 10,229,213,978,226 completed successfully."
+1,06/30/2025 11:48 AM,Warning,"No alias available to pay instalment number 1 for [41995] from file [186,697] / order [202,623] / file contact [41995] / payer contact [41995]."
+1,06/30/2025 11:49 AM,Warning,"No alias available to pay instalment number 2 for [41995] from file [186,697] / order [202,623] / file contact [41995] / payer contact [41995]."
+1,06/30/2025 11:49 AM,Archive,"Pay with alias called with order:201,724, instalment: 10,229,208,627,786, point of sales: 10,229,206,930,641, alias: 1302249298, contact: 9402, amount: 7920.00 USD"
+1,06/30/2025 11:49 AM,Error,"[Technical error] An error occurred while creating EPC payment for instalment 10,229,208,627,786 of order 201,724 / file 186,090. Error message: The payment 181560755 has not been authorized. The instalment has not been processed."
+1,06/30/2025 11:49 AM,Archive,"Pay with alias called with order:201,724, instalment: 10,229,208,627,787, point of sales: 10,229,206,930,641, alias: 1302249298, contact: 9402, amount: 8040.00 USD"
+1,06/30/2025 11:49 AM,Error,"[Technical error] An error occurred while creating EPC payment for instalment 10,229,208,627,787 of order 201,724 / file 186,090. Error message: The payment 2014995747 has not been authorized. The instalment has not been processed."
+1,06/30/2025 11:49 AM,Info,Total amount processed by batch: 403612.50 USD
+1,06/30/2025 11:49 AM,Info,"Execution finished. 10 installments processed successfully, 0 with warnings, 0 with errors, 0 with timeout, 28 not processed."
+1,06/30/2025 11:49 AM,Info,Total amount processed successfully: 133562.00 USD

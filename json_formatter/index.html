@@ -12,10 +12,21 @@
 <body>
     <div class="d-block text-center">
         <h1>i3 Category Mapping JSON Builder</h1>
-        <button id="addMSC">Add Row</button>
-        <button id="downloadJSON">Download JSON</button>
-        <input type="file" id="importJSON" accept=".json">
+        <button class="btn" id="addMSC">Add Row</button>
+        <button class="btn" id="downloadJSON">Download JSON</button>
+        <input class="btn" type="file" id="importJSON" accept=".json">
     </div>
-    <div class="container col-3 my-4" id="container"></div>
+    <div class="d-flex">
+        <div class="container col-4 my-4" id="container">
+            <p id="default_text">Click "Add Row" To start Adding Elements or Upload Existing File</p>
+        </div>
+        <div class="container col-6 my-4">
+            <div class="mb-2">
+                <button id="standardView" class="btn btn-sm">Standard View</button>
+                <button id="compactView" class="btn btn-sm">Compact View</button>
+            </div>
+            <pre id="jsonPreview" style="background:#f8f9fa; padding: 1rem; border: 1px solid #ccc; border-radius: 5px; white-space: pre-wrap;"></pre>
+        </div>
+    </div>
 </body>
 </html>

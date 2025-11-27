@@ -1,0 +1,209 @@
+"Installment management, payment & due reminders for payment - Pay due instalments > 30 Jun 2025, 02:03",,,
+,,,
+,,,
+Message type: Archive,,,
+,,,
+,,,
+,,,
+Number,Date,Message type,Message
+1,06/30/2025 02:03 PM,Archive,"schedule:INSTALM_REMINDER/FILES_SALES_CHANNEL=10229208980740,10229206141024,10229206190513,10229206196779,10229206885511,627325444,10229204013256,10229206679963,10229206196789,10229206679959,10229206885515,10229206885512,10229206885497,10229206885503,10229206885496,10229206885495,10229206196777,10229206679960,10229206885498,10229206885507,10229206196792,10229206885506,10229206679961,10229206196778,10229206885513,10229208023567,10229206196780,10229206679962,10229206196775,10229206885504,102292068"
+1,06/30/2025 02:03 PM,Archive,"url: [p54bil1-7i9e4e0f.oci4.sec] [SSUMNER], batchSize: 1000"
+1,06/30/2025 02:03 PM,Info,Start of instalment payments with aliases
+1,06/30/2025 02:03 PM,Archive,Order | Instalment | Rank | File | Contact number | Email | Instalment amount | Remaining amount
+1,06/30/2025 02:03 PM,Archive,"Pay with alias called with order:354,439, instalment: 10,229,212,276,572, point of sales: 10,229,206,930,641, alias: 65700461, contact: 57732, amount: 7118.75 USD"
+1,06/30/2025 02:03 PM,Archive,354439 | 10229212276572 | 2 | 297211 | 57732 | chris.kubasik@gmail.com | 7118.75 USD | 7118.75 USD |
+1,06/30/2025 02:03 PM,Archive,"File 297,211, Order 354,439, Payment of Installment 10,229,212,276,572 completed successfully."
+1,06/30/2025 02:03 PM,Archive,"Pay with alias called with order:364,801, instalment: 10,229,212,346,427, point of sales: 10,229,206,930,641, alias: 603896034, contact: 79533, amount: 4187.50 USD"
+1,06/30/2025 02:03 PM,Archive,364801 | 10229212346427 | 2 | 304827 | 79533 | hardhitter81@gmail.com | 4187.50 USD | 4187.50 USD |
+1,06/30/2025 02:03 PM,Archive,"File 304,827, Order 364,801, Payment of Installment 10,229,212,346,427 completed successfully."
+1,06/30/2025 02:03 PM,Archive,"Pay with alias called with order:362,883, instalment: 10,229,212,252,397, point of sales: 10,229,206,930,641, alias: 1382181476, contact: 62435, amount: 1993.25 USD"
+1,06/30/2025 02:04 PM,Archive,362883 | 10229212252397 | 2 | 297998 | 62435 | vikrantmathur@gmail.com | 1993.25 USD | 1993.25 USD |
+1,06/30/2025 02:04 PM,Archive,"File 297,998, Order 362,883, Payment of Installment 10,229,212,252,397 completed successfully."
+1,06/30/2025 02:04 PM,Archive,"Pay with alias called with order:356,878, instalment: 10,229,212,346,369, point of sales: 10,229,206,930,641, alias: 1796632708, contact: 55822, amount: 8676.50 USD"
+1,06/30/2025 02:04 PM,Archive,356878 | 10229212346369 | 2 | 298253 | 55822 | msegal77@gmail.com | 8676.50 USD | 8676.50 USD |
+1,06/30/2025 02:04 PM,Archive,"File 298,253, Order 356,878, Payment of Installment 10,229,212,346,369 completed successfully."
+1,06/30/2025 02:04 PM,Archive,"Pay with alias called with order:356,494, instalment: 10,229,212,276,581, point of sales: 10,229,206,930,641, alias: 1633054699, contact: 77153, amount: 14622.75 USD"
+1,06/30/2025 02:04 PM,Archive,356494 | 10229212276581 | 2 | 298640 | 77153 | jy2theworld@gmail.com | 14622.75 USD | 14622.75 USD |
+1,06/30/2025 02:04 PM,Archive,"File 298,640, Order 356,494, Payment of Installment 10,229,212,276,581 completed successfully."
+1,06/30/2025 02:04 PM,Archive,"Pay with alias called with order:359,432, instalment: 10,229,212,346,387, point of sales: 10,229,206,930,641, alias: 1986345471, contact: 22165, amount: 11691.50 USD"
+1,06/30/2025 02:04 PM,Archive,359432 | 10229212346387 | 2 | 300910 | 22165 | maryelizabethhickman@gmail.com | 11691.50 USD | 11691.50 USD |
+1,06/30/2025 02:04 PM,Archive,"File 300,910, Order 359,432, Payment of Installment 10,229,212,346,387 completed successfully."
+1,06/30/2025 02:04 PM,Archive,"Pay with alias called with order:365,707, instalment: 10,229,212,324,534, point of sales: 10,229,206,930,641, alias: 1841834142, contact: 34998, amount: 10969.50 USD"
+1,06/30/2025 02:04 PM,Archive,365707 | 10229212324534 | 2 | 299140 | 34998 | mikegiudice10@gmail.com | 13969.50 USD | 10969.50 USD |
+1,06/30/2025 02:04 PM,Archive,"File 299,140, Order 365,707, Payment of Installment 10,229,212,324,534 completed successfully."
+1,06/30/2025 02:04 PM,Archive,"Pay with alias called with order:363,274, instalment: 10,229,212,252,406, point of sales: 10,229,206,930,641, alias: 1833572115, contact: 54806, amount: 6834.00 USD"
+1,06/30/2025 02:04 PM,Archive,363274 | 10229212252406 | 2 | 301002 | 54806 | aggierose2008@gmail.com | 6834.00 USD | 6834.00 USD |
+1,06/30/2025 02:04 PM,Archive,"File 301,002, Order 363,274, Payment of Installment 10,229,212,252,406 completed successfully."
+1,06/30/2025 02:04 PM,Archive,"Pay with alias called with order:361,367, instalment: 10,229,212,256,218, point of sales: 10,229,206,930,641, alias: 56367051, contact: 60553, amount: 7664.75 USD"
+1,06/30/2025 02:04 PM,Archive,361367 | 10229212256218 | 2 | 299673 | 60553 | jorgeemiliano_rueda@yahoo.com | 9664.75 USD | 7664.75 USD |
+1,06/30/2025 02:04 PM,Archive,"File 299,673, Order 361,367, Payment of Installment 10,229,212,256,218 completed successfully."
+1,06/30/2025 02:04 PM,Archive,"Pay with alias called with order:358,288, instalment: 10,229,212,252,360, point of sales: 10,229,206,930,641, alias: 907060064, contact: 11200, amount: 3082.00 USD"
+1,06/30/2025 02:04 PM,Archive,358288 | 10229212252360 | 2 | 300046 | 11200 | sums25@yahoo.com | 3082.00 USD | 3082.00 USD |
+1,06/30/2025 02:04 PM,Archive,"File 300,046, Order 358,288, Payment of Installment 10,229,212,252,360 completed successfully."
+1,06/30/2025 02:04 PM,Archive,"Pay with alias called with order:357,776, instalment: 10,229,212,252,357, point of sales: 10,229,206,930,641, alias: 2017773243, contact: 79334, amount: 5695.00 USD"
+1,06/30/2025 02:04 PM,Archive,357776 | 10229212252357 | 2 | 299359 | 79334 | tteague01@gmail.com | 5695.00 USD | 5695.00 USD |
+1,06/30/2025 02:04 PM,Archive,"File 299,359, Order 357,776, Payment of Installment 10,229,212,252,357 completed successfully."
+1,06/30/2025 02:04 PM,Archive,"Pay with alias called with order:363,410, instalment: 10,229,212,315,417, point of sales: 10,229,206,930,641, alias: 618943621, contact: 79319, amount: 16884.00 USD"
+1,06/30/2025 02:04 PM,Archive,363410 | 10229212315417 | 2 | 299084 | 79319 | buffedcamel@gmail.com | 16884.00 USD | 16884.00 USD |
+1,06/30/2025 02:04 PM,Archive,"File 299,084, Order 363,410, Payment of Installment 10,229,212,315,417 completed successfully."
+1,06/30/2025 02:04 PM,Archive,"Pay with alias called with order:358,301, instalment: 10,229,212,310,431, point of sales: 10,229,206,930,641, alias: 1696251430, contact: 76728, amount: 4690.00 USD"
+1,06/30/2025 02:04 PM,Archive,358301 | 10229212310431 | 2 | 299574 | 76728 | chris.stevenson@mcgillpartners.com | 4690.00 USD | 4690.00 USD |
+1,06/30/2025 02:04 PM,Archive,"File 299,574, Order 358,301, Payment of Installment 10,229,212,310,431 completed successfully."
+1,06/30/2025 02:04 PM,Archive,"Pay with alias called with order:365,341, instalment: 10,229,212,324,528, point of sales: 10,229,206,930,641, alias: 1206988646, contact: 10513, amount: 7370.00 USD"
+1,06/30/2025 02:04 PM,Archive,365341 | 10229212324528 | 2 | 305294 | 10513 | nanis56@hotmail.com | 7370.00 USD | 7370.00 USD |
+1,06/30/2025 02:04 PM,Archive,"File 305,294, Order 365,341, Payment of Installment 10,229,212,324,528 completed successfully."
+1,06/30/2025 02:04 PM,Archive,"Pay with alias called with order:359,708, instalment: 10,229,212,256,212, point of sales: 10,229,206,930,641, alias: 424084515, contact: 54546, amount: 4221.00 USD"
+1,06/30/2025 02:04 PM,Archive,359708 | 10229212256212 | 2 | 298769 | 54546 | ambereikel@gmail.com | 4221.00 USD | 4221.00 USD |
+1,06/30/2025 02:04 PM,Archive,"File 298,769, Order 359,708, Payment of Installment 10,229,212,256,212 completed successfully."
+1,06/30/2025 02:04 PM,Archive,"Pay with alias called with order:364,703, instalment: 10,229,212,324,522, point of sales: 10,229,206,930,641, alias: 1420576051, contact: 37878, amount: 15008.00 USD"
+1,06/30/2025 02:04 PM,Archive,364703 | 10229212324522 | 2 | 304731 | 37878 | cheeni54@me.com | 15008.00 USD | 15008.00 USD |
+1,06/30/2025 02:04 PM,Archive,"File 304,731, Order 364,703, Payment of Installment 10,229,212,324,522 completed successfully."
+1,06/30/2025 02:04 PM,Warning,"No alias available to pay instalment number 2 for [79788] from file [323,123] / order [395,686] / file contact [79788] / payer contact [79788]."
+1,06/30/2025 02:04 PM,Archive,"Pay with alias called with order:359,585, instalment: 10,229,212,346,396, point of sales: 10,229,206,930,641, alias: 1234853037, contact: 51224, amount: 1345.00 USD"
+1,06/30/2025 02:04 PM,Archive,359585 | 10229212346396 | 2 | 298309 | 51224 | kyle.becker9@gmail.com | 2345.00 USD | 1345.00 USD |
+1,06/30/2025 02:04 PM,Archive,"File 298,309, Order 359,585, Payment of Installment 10,229,212,346,396 completed successfully."
+1,06/30/2025 02:04 PM,Archive,"Pay with alias called with order:363,297, instalment: 10,229,212,331,850, point of sales: 10,229,206,930,641, alias: 846507230, contact: 22088, amount: 2345.00 USD"
+1,06/30/2025 02:04 PM,Archive,363297 | 10229212331850 | 2 | 299002 | 22088 | miretama@yahoo.com | 2345.00 USD | 2345.00 USD |
+1,06/30/2025 02:04 PM,Archive,"File 299,002, Order 363,297, Payment of Installment 10,229,212,331,850 completed successfully."
+1,06/30/2025 02:04 PM,Archive,"Pay with alias called with order:356,898, instalment: 10,229,212,252,347, point of sales: 10,229,206,930,641, alias: 331546523, contact: 75540, amount: 60.25 USD"
+1,06/30/2025 02:04 PM,Archive,356898 | 10229212252347 | 2 | 298932 | 75540 | chrisminiello@yahoo.com | 4036.75 USD | 60.25 USD |
+1,06/30/2025 02:04 PM,Archive,"File 298,932, Order 356,898, Payment of Installment 10,229,212,252,347 completed successfully."
+1,06/30/2025 02:04 PM,Archive,"Pay with alias called with order:359,597, instalment: 10,229,212,346,399, point of sales: 10,229,206,930,641, alias: 1234853037, contact: 51224, amount: 5728.50 USD"
+1,06/30/2025 02:04 PM,Archive,359597 | 10229212346399 | 2 | 298307 | 51224 | kyle.becker9@gmail.com | 5728.50 USD | 5728.50 USD |
+1,06/30/2025 02:04 PM,Archive,"File 298,307, Order 359,597, Payment of Installment 10,229,212,346,399 completed successfully."
+1,06/30/2025 02:04 PM,Archive,"Pay with alias called with order:355,756, instalment: 10,229,212,310,419, point of sales: 10,229,206,930,641, alias: 465264050, contact: 60427, amount: 1876.00 USD"
+1,06/30/2025 02:04 PM,Archive,355756 | 10229212310419 | 2 | 298237 | 60427 | yaelhome@yasspartners.com | 1876.00 USD | 1876.00 USD |
+1,06/30/2025 02:04 PM,Archive,"File 298,237, Order 355,756, Payment of Installment 10,229,212,310,419 completed successfully."
+1,06/30/2025 02:04 PM,Warning,"No alias available to pay instalment number 2 for [78722] from file [298,669] / order [356,526] / file contact [78722] / payer contact [78722]."
+1,06/30/2025 02:04 PM,Archive,"Pay with alias called with order:352,937, instalment: 10,229,212,037,333, point of sales: 10,229,206,930,641, alias: 1928079272, contact: 78484, amount: 9045.00 USD"
+1,06/30/2025 02:04 PM,Archive,352937 | 10229212037333 | 2 | 296019 | 78484 | kosta.kaporis@gmail.com | 9045.00 USD | 9045.00 USD |
+1,06/30/2025 02:04 PM,Archive,"File 296,019, Order 352,937, Payment of Installment 10,229,212,037,333 completed successfully."
+1,06/30/2025 02:04 PM,Archive,"Pay with alias called with order:361,908, instalment: 10,229,212,252,381, point of sales: 10,229,206,930,641, alias: 1533702206, contact: 75773, amount: 4958.00 USD"
+1,06/30/2025 02:04 PM,Archive,361908 | 10229212252381 | 2 | 300913 | 75773 | mabraham@kumc.edu | 4958.00 USD | 4958.00 USD |
+1,06/30/2025 02:04 PM,Archive,"File 300,913, Order 361,908, Payment of Installment 10,229,212,252,381 completed successfully."
+1,06/30/2025 02:04 PM,Archive,"Pay with alias called with order:354,097, instalment: 10,229,212,256,170, point of sales: 10,229,206,930,641, alias: 10440645, contact: 75927, amount: 10803.75 USD"
+1,06/30/2025 02:04 PM,Archive,354097 | 10229212256170 | 2 | 296952 | 75927 | gerardo@trad.com.mx | 10803.75 USD | 10803.75 USD |
+1,06/30/2025 02:04 PM,Archive,"File 296,952, Order 354,097, Payment of Installment 10,229,212,256,170 completed successfully."
+1,06/30/2025 02:04 PM,Archive,"Pay with alias called with order:360,624, instalment: 10,229,212,346,405, point of sales: 10,229,206,930,641, alias: 1447318431, contact: 79445, amount: 49044.00 USD"
+1,06/30/2025 02:04 PM,Archive,360624 | 10229212346405 | 2 | 301850 | 79445 | kevin@berkeleycollege.edu | 49044.00 USD | 49044.00 USD |
+1,06/30/2025 02:04 PM,Archive,"File 301,850, Order 360,624, Payment of Installment 10,229,212,346,405 completed successfully."
+1,06/30/2025 02:04 PM,Archive,"Pay with alias called with order:362,813, instalment: 10,229,212,315,411, point of sales: 10,229,206,930,641, alias: 1738180042, contact: 30792, amount: 2321.50 USD"
+1,06/30/2025 02:04 PM,Archive,362813 | 10229212315411 | 2 | 303404 | 30792 | maxrothstein@gmail.com | 4321.50 USD | 2321.50 USD |
+1,06/30/2025 02:04 PM,Archive,"File 303,404, Order 362,813, Payment of Installment 10,229,212,315,411 completed successfully."
+1,06/30/2025 02:04 PM,Archive,"Pay with alias called with order:365,375, instalment: 10,229,212,256,237, point of sales: 10,229,206,930,641, alias: 1443075497, contact: 2540, amount: 63315.00 USD"
+1,06/30/2025 02:04 PM,Archive,365375 | 10229212256237 | 2 | 303553 | 2540 | gabriel_lamas@hotmail.com | 63315.00 USD | 63315.00 USD |
+1,06/30/2025 02:04 PM,Archive,"File 303,553, Order 365,375, Payment of Installment 10,229,212,256,237 completed successfully."
+1,06/30/2025 02:04 PM,Archive,"Pay with alias called with order:354,491, instalment: 10,229,212,252,335, point of sales: 10,229,206,930,641, alias: 310694339, contact: 79159, amount: 42210.00 USD"
+1,06/30/2025 02:04 PM,Archive,354491 | 10229212252335 | 2 | 297218 | 79159 | sam@samharris.org | 42210.00 USD | 42210.00 USD |
+1,06/30/2025 02:04 PM,Archive,"File 297,218, Order 354,491, Payment of Installment 10,229,212,252,335 completed successfully."
+1,06/30/2025 02:04 PM,Archive,"Pay with alias called with order:359,495, instalment: 10,229,212,346,390, point of sales: 10,229,206,930,641, alias: 1534571047, contact: 45924, amount: 7035.00 USD"
+1,06/30/2025 02:04 PM,Archive,359495 | 10229212346390 | 2 | 300396 | 45924 | bibasandrea@gmail.com | 7035.00 USD | 7035.00 USD |
+1,06/30/2025 02:04 PM,Archive,"File 300,396, Order 359,495, Payment of Installment 10,229,212,346,390 completed successfully."
+1,06/30/2025 02:04 PM,Archive,"Pay with alias called with order:362,572, instalment: 10,229,212,315,405, point of sales: 10,229,206,930,641, alias: 1484662922, contact: 25364, amount: 4832.38 USD"
+1,06/30/2025 02:04 PM,Archive,362572 | 10229212315405 | 2 | 302729 | 25364 | sofia87_b@hotmail.com | 4832.38 USD | 4832.38 USD |
+1,06/30/2025 02:04 PM,Archive,"File 302,729, Order 362,572, Payment of Installment 10,229,212,315,405 completed successfully."
+1,06/30/2025 02:04 PM,Archive,"Pay with alias called with order:362,575, instalment: 10,229,212,346,411, point of sales: 10,229,206,930,641, alias: 339089205, contact: 79478, amount: 6599.50 USD"
+1,06/30/2025 02:04 PM,Archive,362575 | 10229212346411 | 2 | 303273 | 79478 | les.schmidt65@gmail.com | 6599.50 USD | 6599.50 USD |
+1,06/30/2025 02:04 PM,Archive,"File 303,273, Order 362,575, Payment of Installment 10,229,212,346,411 completed successfully."
+1,06/30/2025 02:04 PM,Archive,"Pay with alias called with order:362,191, instalment: 10,229,212,276,621, point of sales: 10,229,206,930,641, alias: 2146186901, contact: 55646, amount: 4664.88 USD"
+1,06/30/2025 02:05 PM,Archive,362191 | 10229212276621 | 2 | 300530 | 55646 | ralcarranza@yahoo.com | 4664.88 USD | 4664.88 USD |
+1,06/30/2025 02:05 PM,Archive,"File 300,530, Order 362,191, Payment of Installment 10,229,212,276,621 completed successfully."
+1,06/30/2025 02:05 PM,Archive,"Pay with alias called with order:355,790, instalment: 10,229,212,256,182, point of sales: 10,229,206,930,641, alias: 1945669485, contact: 79247, amount: 4355.00 USD"
+1,06/30/2025 02:05 PM,Archive,355790 | 10229212256182 | 2 | 298234 | 79247 | rmdefreitas@verizon.net | 4355.00 USD | 4355.00 USD |
+1,06/30/2025 02:05 PM,Archive,"File 298,234, Order 355,790, Payment of Installment 10,229,212,256,182 completed successfully."
+1,06/30/2025 02:05 PM,Archive,"Pay with alias called with order:356,680, instalment: 10,229,212,346,366, point of sales: 10,229,206,930,641, alias: 669741886, contact: 38755, amount: 18659.50 USD"
+1,06/30/2025 02:05 PM,Archive,356680 | 10229212346366 | 2 | 298176 | 38755 | jpamcor@gmail.com | 18659.50 USD | 18659.50 USD |
+1,06/30/2025 02:05 PM,Archive,"File 298,176, Order 356,680, Payment of Installment 10,229,212,346,366 completed successfully."
+1,06/30/2025 02:05 PM,Archive,"Pay with alias called with order:362,314, instalment: 10,229,212,315,402, point of sales: 10,229,206,930,641, alias: 1199101553, contact: 1996, amount: 53315.00 USD"
+1,06/30/2025 02:05 PM,Archive,362314 | 10229212315402 | 2 | 303156 | 1996 | rafa.almanza@gmail.com | 63315.00 USD | 53315.00 USD |
+1,06/30/2025 02:05 PM,Archive,"File 303,156, Order 362,314, Payment of Installment 10,229,212,315,402 completed successfully."
+1,06/30/2025 02:05 PM,Archive,"Pay with alias called with order:364,106, instalment: 10,229,212,315,426, point of sales: 10,229,206,930,641, alias: 375666126, contact: 72917, amount: 2127.25 USD"
+1,06/30/2025 02:05 PM,Archive,364106 | 10229212315426 | 2 | 303740 | 72917 | jeffrey.shapiro@sbcglobal.net | 2127.25 USD | 2127.25 USD |
+1,06/30/2025 02:05 PM,Archive,"File 303,740, Order 364,106, Payment of Installment 10,229,212,315,426 completed successfully."
+1,06/30/2025 02:05 PM,Archive,"Pay with alias called with order:362,838, instalment: 10,229,212,252,394, point of sales: 10,229,206,930,641, alias: 1418193369, contact: 61290, amount: 9614.50 USD"
+1,06/30/2025 02:05 PM,Error,"[Technical error] An error occurred while creating EPC payment for instalment 10,229,212,252,394 of order 362,838 / file 303,403. Error message: The payment 377414078 has not been authorized. The instalment has not been processed."
+1,06/30/2025 02:05 PM,Archive,"Pay with alias called with order:358,099, instalment: 10,229,212,276,603, point of sales: 10,229,206,930,641, alias: 1819725705, contact: 9227, amount: 5762.00 USD"
+1,06/30/2025 02:05 PM,Archive,358099 | 10229212276603 | 2 | 299229 | 9227 | kwssoccerstud@aol.com | 5762.00 USD | 5762.00 USD |
+1,06/30/2025 02:05 PM,Archive,"File 299,229, Order 358,099, Payment of Installment 10,229,212,276,603 completed successfully."
+1,06/30/2025 02:05 PM,Archive,"Pay with alias called with order:356,306, instalment: 10,229,212,346,363, point of sales: 10,229,206,930,641, alias: 523876660, contact: 49719, amount: 8777.00 USD"
+1,06/30/2025 02:05 PM,Archive,356306 | 10229212346363 | 2 | 298074 | 49719 | tyler.baril@outlook.com | 8777.00 USD | 8777.00 USD |
+1,06/30/2025 02:05 PM,Archive,"File 298,074, Order 356,306, Payment of Installment 10,229,212,346,363 completed successfully."
+1,06/30/2025 02:05 PM,Archive,"Pay with alias called with order:364,125, instalment: 10,229,212,324,507, point of sales: 10,229,206,930,641, alias: 1377576056, contact: 79505, amount: 7705.00 USD"
+1,06/30/2025 02:05 PM,Archive,364125 | 10229212324507 | 2 | 304229 | 79505 | lagracia.carlos@outlook.com | 7705.00 USD | 7705.00 USD |
+1,06/30/2025 02:05 PM,Archive,"File 304,229, Order 364,125, Payment of Installment 10,229,212,324,507 completed successfully."
+1,06/30/2025 02:05 PM,Archive,"Pay with alias called with order:355,805, instalment: 10,229,212,256,185, point of sales: 10,229,206,930,641, alias: 1167970370, contact: 79247, amount: 2177.50 USD"
+1,06/30/2025 02:05 PM,Archive,355805 | 10229212256185 | 2 | 298245 | 79247 | rmdefreitas@verizon.net | 2177.50 USD | 2177.50 USD |
+1,06/30/2025 02:05 PM,Archive,"File 298,245, Order 355,805, Payment of Installment 10,229,212,256,185 completed successfully."
+1,06/30/2025 02:05 PM,Archive,"Pay with alias called with order:353,630, instalment: 10,229,212,051,180, point of sales: 10,229,206,930,641, alias: 1689588440, contact: 65108, amount: 34572.00 USD"
+1,06/30/2025 02:05 PM,Archive,353630 | 10229212051180 | 2 | 296564 | 65108 | raidergoodman@yahoo.com | 34572.00 USD | 34572.00 USD |
+1,06/30/2025 02:05 PM,Archive,"File 296,564, Order 353,630, Payment of Installment 10,229,212,051,180 completed successfully."
+1,06/30/2025 02:05 PM,Archive,"Pay with alias called with order:357,337, instalment: 10,229,212,315,369, point of sales: 10,229,206,930,641, alias: 870381872, contact: 12973, amount: 4497.38 USD"
+1,06/30/2025 02:05 PM,Archive,357337 | 10229212315369 | 2 | 298995 | 12973 | daniel_85_@hotmail.com | 4497.38 USD | 4497.38 USD |
+1,06/30/2025 02:05 PM,Archive,"File 298,995, Order 357,337, Payment of Installment 10,229,212,315,369 completed successfully."
+1,06/30/2025 02:05 PM,Archive,"Pay with alias called with order:354,009, instalment: 10,229,212,252,332, point of sales: 10,229,206,930,641, alias: 49805332, contact: 79100, amount: 4020.00 USD"
+1,06/30/2025 02:05 PM,Archive,354009 | 10229212252332 | 2 | 296887 | 79100 | markbamber17@gmail.com | 4020.00 USD | 4020.00 USD |
+1,06/30/2025 02:05 PM,Archive,"File 296,887, Order 354,009, Payment of Installment 10,229,212,252,332 completed successfully."
+1,06/30/2025 02:05 PM,Archive,"Pay with alias called with order:354,139, instalment: 10,229,212,258,897, point of sales: 10,229,206,930,641, alias: 521595249, contact: 79133, amount: 13895.80 USD"
+1,06/30/2025 02:05 PM,Archive,354139 | 10229212258897 | 2 | 296984 | 79133 | alejandroag@milesimo.com.gt | 13895.80 USD | 13895.80 USD |
+1,06/30/2025 02:05 PM,Archive,"File 296,984, Order 354,139, Payment of Installment 10,229,212,258,897 completed successfully."
+1,06/30/2025 02:05 PM,Archive,"Pay with alias called with order:360,805, instalment: 10,229,212,324,474, point of sales: 10,229,206,930,641, alias: 1285197993, contact: 46330, amount: 8184.00 USD"
+1,06/30/2025 02:05 PM,Archive,360805 | 10229212324474 | 2 | 299758 | 46330 | gyubum.ko@gmail.com | 10184.00 USD | 8184.00 USD |
+1,06/30/2025 02:05 PM,Archive,"File 299,758, Order 360,805, Payment of Installment 10,229,212,324,474 completed successfully."
+1,06/30/2025 02:05 PM,Archive,"Pay with alias called with order:365,414, instalment: 10,229,212,331,874, point of sales: 10,229,206,930,641, alias: 1083419115, contact: 69800, amount: 24304.25 USD"
+1,06/30/2025 02:05 PM,Archive,365414 | 10229212331874 | 2 | 305358 | 69800 | aneedham@shippneedham.com | 24304.25 USD | 24304.25 USD |
+1,06/30/2025 02:05 PM,Archive,"File 305,358, Order 365,414, Payment of Installment 10,229,212,331,874 completed successfully."
+1,06/30/2025 02:05 PM,Archive,"Pay with alias called with order:365,793, instalment: 10,229,212,346,430, point of sales: 10,229,206,930,641, alias: 301904658, contact: 6093, amount: 6130.50 USD"
+1,06/30/2025 02:05 PM,Archive,365793 | 10229212346430 | 2 | 299590 | 6093 | invigorate.rehab@gmail.com | 6130.50 USD | 6130.50 USD |
+1,06/30/2025 02:05 PM,Archive,"File 299,590, Order 365,793, Payment of Installment 10,229,212,346,430 completed successfully."
+1,06/30/2025 02:05 PM,Archive,"Pay with alias called with order:363,233, instalment: 10,229,212,324,489, point of sales: 10,229,206,930,641, alias: 36149016, contact: 76238, amount: 5142.25 USD"
+1,06/30/2025 02:05 PM,Archive,363233 | 10229212324489 | 2 | 303420 | 76238 | jwhiter535@gmail.com | 5142.25 USD | 5142.25 USD |
+1,06/30/2025 02:05 PM,Archive,"File 303,420, Order 363,233, Payment of Installment 10,229,212,324,489 completed successfully."
+1,06/30/2025 02:05 PM,Archive,"Pay with alias called with order:362,721, instalment: 10,229,212,346,414, point of sales: 10,229,206,930,641, alias: 1538105084, contact: 1142, amount: 7102.00 USD"
+1,06/30/2025 02:05 PM,Archive,362721 | 10229212346414 | 2 | 303291 | 1142 | jgorr17@yahoo.com | 7102.00 USD | 7102.00 USD |
+1,06/30/2025 02:05 PM,Archive,"File 303,291, Order 362,721, Payment of Installment 10,229,212,346,414 completed successfully."
+1,06/30/2025 02:05 PM,Archive,"Pay with alias called with order:359,649, instalment: 10,229,212,256,209, point of sales: 10,229,206,930,641, alias: 1309976447, contact: 65311, amount: 4388.50 USD"
+1,06/30/2025 02:05 PM,Archive,359649 | 10229212256209 | 2 | 301104 | 65311 | john@myisolutions.com | 4388.50 USD | 4388.50 USD |
+1,06/30/2025 02:05 PM,Archive,"File 301,104, Order 359,649, Payment of Installment 10,229,212,256,209 completed successfully."
+1,06/30/2025 02:05 PM,Archive,"Pay with alias called with order:359,151, instalment: 10,229,212,252,375, point of sales: 10,229,206,930,641, alias: 790682386, contact: 35841, amount: 9011.50 USD"
+1,06/30/2025 02:05 PM,Archive,359151 | 10229212252375 | 2 | 300239 | 35841 | christopher.ourisman@ourisman.com | 9011.50 USD | 9011.50 USD |
+1,06/30/2025 02:05 PM,Archive,"File 300,239, Order 359,151, Payment of Installment 10,229,212,252,375 completed successfully."
+1,06/30/2025 02:05 PM,Archive,"Pay with alias called with order:362,859, instalment: 10,229,212,276,628, point of sales: 10,229,206,930,641, alias: 1735211033, contact: 11386, amount: 6540.88 USD"
+1,06/30/2025 02:05 PM,Archive,362859 | 10229212276628 | 2 | 303377 | 11386 | scott.jeremiah@gmail.com | 6540.88 USD | 6540.88 USD |
+1,06/30/2025 02:05 PM,Archive,"File 303,377, Order 362,859, Payment of Installment 10,229,212,276,628 completed successfully."
+1,06/30/2025 02:05 PM,Archive,"Pay with alias called with order:359,669, instalment: 10,229,212,346,402, point of sales: 10,229,206,930,641, alias: 631022199, contact: 13253, amount: 856.75 USD"
+1,06/30/2025 02:05 PM,Error,"[Technical error] An error occurred while creating EPC payment for instalment 10,229,212,346,402 of order 359,669 / file 301,038. Error message: The payment 1062306344 has not been authorized. The instalment has not been processed."
+1,06/30/2025 02:05 PM,Archive,"Pay with alias called with order:356,597, instalment: 10,229,212,276,587, point of sales: 10,229,206,930,641, alias: 385767106, contact: 79276, amount: 4723.50 USD"
+1,06/30/2025 02:05 PM,Archive,356597 | 10229212276587 | 2 | 298467 | 79276 | lbaraquio@me.com | 4723.50 USD | 4723.50 USD |
+1,06/30/2025 02:05 PM,Archive,"File 298,467, Order 356,597, Payment of Installment 10,229,212,276,587 completed successfully."
+1,06/30/2025 02:05 PM,Archive,"Pay with alias called with order:362,868, instalment: 10,229,212,276,631, point of sales: 10,229,206,930,641, alias: 1735211033, contact: 11386, amount: 37838.25 USD"
+1,06/30/2025 02:05 PM,Archive,362868 | 10229212276631 | 2 | 303363 | 11386 | scott.jeremiah@gmail.com | 37838.25 USD | 37838.25 USD |
+1,06/30/2025 02:05 PM,Archive,"File 303,363, Order 362,868, Payment of Installment 10,229,212,276,631 completed successfully."
+1,06/30/2025 02:05 PM,Archive,"Pay with alias called with order:359,287, instalment: 10,229,212,310,443, point of sales: 10,229,206,930,641, alias: 1567997716, contact: 43049, amount: 10217.50 USD"
+1,06/30/2025 02:05 PM,Error,"[Technical error] An error occurred while creating EPC payment for instalment 10,229,212,310,443 of order 359,287 / file 300,701. Error message: The payment 1953595371 has not been authorized. The instalment has not been processed."
+1,06/30/2025 02:05 PM,Archive,"Pay with alias called with order:354,423, instalment: 10,229,212,263,347, point of sales: 10,229,206,930,641, alias: 1477434904, contact: 79156, amount: 11859.00 USD"
+1,06/30/2025 02:05 PM,Archive,354423 | 10229212263347 | 2 | 297198 | 79156 | nsk1@yahoo.com | 11859.00 USD | 11859.00 USD |
+1,06/30/2025 02:05 PM,Archive,"File 297,198, Order 354,423, Payment of Installment 10,229,212,263,347 completed successfully."
+1,06/30/2025 02:05 PM,Archive,"Pay with alias called with order:353,271, instalment: 10,229,212,041,572, point of sales: 10,229,206,930,641, alias: 1631359615, contact: 78694, amount: 3986.50 USD"
+1,06/30/2025 02:05 PM,Archive,353271 | 10229212041572 | 2 | 296283 | 78694 | bonner09@gmail.com | 3986.50 USD | 3986.50 USD |
+1,06/30/2025 02:05 PM,Archive,"File 296,283, Order 353,271, Payment of Installment 10,229,212,041,572 completed successfully."
+1,06/30/2025 02:05 PM,Archive,"Pay with alias called with order:362,609, instalment: 10,229,212,256,221, point of sales: 10,229,206,930,641, alias: 1080776427, contact: 26456, amount: 6951.25 USD"
+1,06/30/2025 02:06 PM,Archive,362609 | 10229212256221 | 2 | 298159 | 26456 | luisordu@hotmail.com | 6951.25 USD | 6951.25 USD |
+1,06/30/2025 02:06 PM,Archive,"File 298,159, Order 362,609, Payment of Installment 10,229,212,256,221 completed successfully."
+1,06/30/2025 02:06 PM,Archive,"Pay with alias called with order:359,536, instalment: 10,229,212,310,446, point of sales: 10,229,206,930,641, alias: 1648160959, contact: 31381, amount: 6666.50 USD"
+1,06/30/2025 02:06 PM,Archive,359536 | 10229212310446 | 2 | 301001 | 31381 | mike1mclane1@yahoo.com | 6666.50 USD | 6666.50 USD |
+1,06/30/2025 02:06 PM,Archive,"File 301,001, Order 359,536, Payment of Installment 10,229,212,310,446 completed successfully."
+1,06/30/2025 02:06 PM,Archive,"Pay with alias called with order:363,384, instalment: 10,229,212,324,495, point of sales: 10,229,206,930,641, alias: 1187276966, contact: 79496, amount: 10736.75 USD"
+1,06/30/2025 02:06 PM,Archive,363384 | 10229212324495 | 2 | 303616 | 79496 | michaeljones7542@gmail.com | 10736.75 USD | 10736.75 USD |
+1,06/30/2025 02:06 PM,Archive,"File 303,616, Order 363,384, Payment of Installment 10,229,212,324,495 completed successfully."
+1,06/30/2025 02:06 PM,Archive,"Pay with alias called with order:354,296, instalment: 10,229,212,269,603, point of sales: 10,229,206,930,641, alias: 1618773070, contact: 68350, amount: 4422.00 USD"
+1,06/30/2025 02:06 PM,Archive,354296 | 10229212269603 | 2 | 297102 | 68350 | dmartin.lawyer@gmail.com | 4422.00 USD | 4422.00 USD |
+1,06/30/2025 02:06 PM,Archive,"File 297,102, Order 354,296, Payment of Installment 10,229,212,269,603 completed successfully."
+1,06/30/2025 02:06 PM,Archive,"Pay with alias called with order:362,619, instalment: 10,229,212,343,748, point of sales: 10,229,203,950,535, alias: 1498203892, contact: 1709, amount: 18676.25 USD"
+1,06/30/2025 02:06 PM,Archive,362619 | 10229212343748 | 2 | 298996 | 1709 | luis.m1806@gmail.com | 18676.25 USD | 18676.25 USD |
+1,06/30/2025 02:06 PM,Archive,"File 298,996, Order 362,619, Payment of Installment 10,229,212,343,748 completed successfully."
+1,06/30/2025 02:06 PM,Archive,"Pay with alias called with order:365,563, instalment: 10,229,212,310,485, point of sales: 10,229,206,930,641, alias: 1753003788, contact: 55864, amount: 10864.00 USD"
+1,06/30/2025 02:06 PM,Archive,365563 | 10229212310485 | 2 | 298048 | 55864 | jecroyd@yahoo.com | 12864.00 USD | 10864.00 USD |
+1,06/30/2025 02:06 PM,Archive,"File 298,048, Order 365,563, Payment of Installment 10,229,212,310,485 completed successfully."
+1,06/30/2025 02:06 PM,Info,Total amount processed by batch: 738087.32 USD
+1,06/30/2025 02:06 PM,Info,Total amount processed successfully: 694283.57 USD
+1,06/30/2025 02:06 PM,Info,"Execution finished. 62 installments processed successfully, 0 with warnings, 0 with errors, 0 with timeout, 5 not processed."

@@ -1,0 +1,57 @@
+"Installment management, payment & due reminders for payment - Pay due instalments > 30 Jun 2025, 11:19",,,
+,,,
+,,,
+Message type: Archive,,,
+,,,
+,,,
+,,,
+Number,Date,Message type,Message
+1,06/30/2025 11:19 AM,Archive,"url: [p54bil1-5d0f9i6g.oci4.sec] [SSUMNER], batchSize: 1000"
+1,06/30/2025 11:19 AM,Archive,"schedule:INSTALM_REMINDER/SIMULATION_MODE=false, INSTALM_REMINDER/EXCLUDED_FILES=null, SCHED_PARAM/FILE_IDS=291087,298249,303412,303295,297753,300361,303164,250545,298373,284998,294619,300220,298318,293711,298916, INSTALM_REMINDER/FILES_SALES_CHANNEL=10229208728441,10229208980739,10229207555326,10229207555327,10229207773717,10229207555328,10229204223437,10229204223438,10229208023565,10229207773719,10229207773715,10229207773704,10229207773692,10229207773708,10229207773691,10229207773690,102292075"
+1,06/30/2025 11:19 AM,Info,Start of instalment payments with aliases
+1,06/30/2025 11:19 AM,Archive,Order | Instalment | Rank | File | Contact number | Email | Instalment amount | Remaining amount
+1,06/30/2025 11:19 AM,Archive,"Pay with alias called with order:361,607, instalment: 10,229,212,310,452, point of sales: 10,229,206,196,886, alias: 923136436, contact: 33377, amount: 9923.91 CAD"
+1,06/30/2025 11:19 AM,Archive,361607 | 10229212310452 | 2 | 300361 | 33377 | 453350331@qq.com | 9923.91 CAD | 9923.91 CAD |
+1,06/30/2025 11:19 AM,Archive,"File 300,361, Order 361,607, Payment of Installment 10,229,212,310,452 completed successfully."
+1,06/30/2025 11:19 AM,Archive,"Pay with alias called with order:356,711, instalment: 10,229,212,324,449, point of sales: 10,229,206,196,886, alias: 1052461533, contact: 44201, amount: 7997.66 CAD"
+1,06/30/2025 11:19 AM,Archive,356711 | 10229212324449 | 2 | 284998 | 44201 | billwchan@yahoo.com | 7997.66 CAD | 7997.66 CAD |
+1,06/30/2025 11:19 AM,Archive,"File 284,998, Order 356,711, Payment of Installment 10,229,212,324,449 completed successfully."
+1,06/30/2025 11:19 AM,Archive,"Pay with alias called with order:356,481, instalment: 10,229,212,331,825, point of sales: 10,229,206,196,886, alias: 948162433, contact: 37955, amount: 4087.00 CAD"
+1,06/30/2025 11:19 AM,Archive,356481 | 10229212331825 | 2 | 293711 | 37955 | dvmquan@gmail.com | 4087.00 CAD | 4087.00 CAD |
+1,06/30/2025 11:19 AM,Archive,"File 293,711, Order 356,481, Payment of Installment 10,229,212,331,825 completed successfully."
+1,06/30/2025 11:19 AM,Archive,"Pay with alias called with order:356,896, instalment: 10,229,212,252,350, point of sales: 10,229,206,196,886, alias: 965107646, contact: 55822, amount: 11892.50 CAD"
+1,06/30/2025 11:19 AM,Archive,356896 | 10229212252350 | 2 | 298249 | 55822 | msegal77@gmail.com | 11892.50 CAD | 11892.50 CAD |
+1,06/30/2025 11:19 AM,Archive,"File 298,249, Order 356,896, Payment of Installment 10,229,212,252,350 completed successfully."
+1,06/30/2025 11:19 AM,Archive,"Pay with alias called with order:362,286, instalment: 10,229,212,310,458, point of sales: 10,229,206,196,886, alias: 1547779681, contact: 57851, amount: 3249.50 CAD"
+1,06/30/2025 11:19 AM,Archive,362286 | 10229212310458 | 2 | 303164 | 57851 | oliver.m.pare@gmail.com | 3249.50 CAD | 3249.50 CAD |
+1,06/30/2025 11:19 AM,Archive,"File 303,164, Order 362,286, Payment of Installment 10,229,212,310,458 completed successfully."
+1,06/30/2025 11:19 AM,Archive,"Pay with alias called with order:359,406, instalment: 10,229,212,315,392, point of sales: 10,229,206,196,886, alias: 1714246727, contact: 32761, amount: 4874.25 CAD"
+1,06/30/2025 11:19 AM,Archive,359406 | 10229212315392 | 2 | 298373 | 32761 | summitpostboca@gmail.com | 4874.25 CAD | 4874.25 CAD |
+1,06/30/2025 11:19 AM,Archive,"File 298,373, Order 359,406, Payment of Installment 10,229,212,315,392 completed successfully."
+1,06/30/2025 11:19 AM,Archive,"Pay with alias called with order:358,376, instalment: 10,229,212,346,378, point of sales: 10,229,206,196,886, alias: 111445624, contact: 51662, amount: 3249.50 CAD"
+1,06/30/2025 11:19 AM,Archive,358376 | 10229212346378 | 2 | 298916 | 51662 | craigb101@hotmail.com | 3249.50 CAD | 3249.50 CAD |
+1,06/30/2025 11:19 AM,Archive,"File 298,916, Order 358,376, Payment of Installment 10,229,212,346,378 completed successfully."
+1,06/30/2025 11:19 AM,Archive,"Pay with alias called with order:350,152, instalment: 10,229,212,048,837, point of sales: 10,229,206,196,886, alias: 1054343084, contact: 54006, amount: 4690.00 CAD"
+1,06/30/2025 11:19 AM,Archive,350152 | 10229212048837 | 2 | 291087 | 54006 | carbonaroalex@yahoo.com | 4690.00 CAD | 4690.00 CAD |
+1,06/30/2025 11:19 AM,Archive,"File 291,087, Order 350,152, Payment of Installment 10,229,212,048,837 completed successfully."
+1,06/30/2025 11:19 AM,Archive,"Pay with alias called with order:355,572, instalment: 10,229,212,276,578, point of sales: 10,229,206,196,886, alias: 1171706949, contact: 2264, amount: 9798.75 CAD"
+1,06/30/2025 11:19 AM,Archive,355572 | 10229212276578 | 2 | 297753 | 2264 | rakeshkpai@gmail.com | 9798.75 CAD | 9798.75 CAD |
+1,06/30/2025 11:19 AM,Archive,"File 297,753, Order 355,572, Payment of Installment 10,229,212,276,578 completed successfully."
+1,06/30/2025 11:19 AM,Archive,"Pay with alias called with order:361,617, instalment: 10,229,212,324,480, point of sales: 10,229,206,196,886, alias: 1802165642, contact: 61473, amount: 19959.91 CAD"
+1,06/30/2025 11:19 AM,Archive,361617 | 10229212324480 | 2 | 300220 | 61473 | cvkent@shaw.ca | 19959.91 CAD | 19959.91 CAD |
+1,06/30/2025 11:19 AM,Archive,"File 300,220, Order 361,617, Payment of Installment 10,229,212,324,480 completed successfully."
+1,06/30/2025 11:19 AM,Archive,"Pay with alias called with order:355,888, instalment: 10,229,212,331,819, point of sales: 10,229,206,196,886, alias: 159738637, contact: 48146, amount: 14706.50 CAD"
+1,06/30/2025 11:19 AM,Archive,355888 | 10229212331819 | 2 | 298318 | 48146 | dr.mikewu@gmail.com | 14706.50 CAD | 14706.50 CAD |
+1,06/30/2025 11:19 AM,Archive,"File 298,318, Order 355,888, Payment of Installment 10,229,212,331,819 completed successfully."
+1,06/30/2025 11:19 AM,Archive,"Pay with alias called with order:355,677, instalment: 10,229,212,315,360, point of sales: 10,229,206,196,886, alias: 1126404244, contact: 30509, amount: 7997.66 CAD"
+1,06/30/2025 11:19 AM,Archive,355677 | 10229212315360 | 2 | 250545 | 30509 | glohia@msn.com | 7997.66 CAD | 7997.66 CAD |
+1,06/30/2025 11:19 AM,Archive,"File 250,545, Order 355,677, Payment of Installment 10,229,212,315,360 completed successfully."
+1,06/30/2025 11:19 AM,Archive,"Pay with alias called with order:358,334, instalment: 10,229,212,324,458, point of sales: 10,229,206,196,886, alias: 516099689, contact: 55130, amount: 5025.00 CAD"
+1,06/30/2025 11:19 AM,Archive,358334 | 10229212324458 | 2 | 294619 | 55130 | koki.akala@gmail.com | 5025.00 CAD | 5025.00 CAD |
+1,06/30/2025 11:19 AM,Archive,"File 294,619, Order 358,334, Payment of Installment 10,229,212,324,458 completed successfully."
+1,06/30/2025 11:19 AM,Archive,"Pay with alias called with order:363,257, instalment: 10,229,212,252,400, point of sales: 10,229,206,196,886, alias: 987202008, contact: 76238, amount: 1624.75 CAD"
+1,06/30/2025 11:19 AM,Archive,363257 | 10229212252400 | 2 | 303412 | 76238 | jwhiter535@gmail.com | 1624.75 CAD | 1624.75 CAD |
+1,06/30/2025 11:19 AM,Info,Total amount processed by batch: 109076.89 CAD
+1,06/30/2025 11:19 AM,Info,"Execution finished. 14 installments processed successfully, 0 with warnings, 0 with errors, 0 with timeout, 0 not processed."
+1,06/30/2025 11:19 AM,Info,Total amount processed successfully: 109076.89 CAD
+1,06/30/2025 11:19 AM,Archive,"File 303,412, Order 363,257, Payment of Installment 10,229,212,252,400 completed successfully."

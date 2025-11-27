@@ -1,5 +1,15 @@
+:root {
+    --background: #292929;
+    --main-red: #aa0000;
+    --main-green: #008000;
+    --hover-green: #005f00;
+    --main-blue: #7373dd;
+    --hover-blue: #4b4b96;
+    --main-gray: #303841;
+}
+
 body {
-    background: rgb(41, 41, 41) !important;
+    background: var(--background) !important;
     height: 100vh;
 }
 
@@ -13,7 +23,7 @@ h1 {
 }
 
 hr {
-   color: white !important;
+    color: white !important;
 }
 
 
@@ -29,9 +39,10 @@ hr {
     flex-direction: column;
     gap: 5px;
 }
+
 .remove-msc {
     margin-top: 15px;
-    background-color: rgb(170, 0, 0);
+    background-color: var(--main-red);
     color: white;
     border: none;
     padding: 5px;
@@ -45,19 +56,42 @@ hr {
     padding: 8px !important;
 }
 
-.add-spec , #addMSC {
-    background-color: green;
+.add-spec,
+#addMSC {
+    background-color: var(--main-green);
     color: white;
     border: none;
     padding: 5px;
 }
 
+.add-spec,
+#addMSC:hover {
+    background-color: var(--hover-green);
+}
+
 #downloadJSON {
-    background-color: rgb(115, 115, 221);
+    background-color: var(--main-blue);
     color: white;
     border: none;
     padding: 8px;
 }
+#downloadJSON:hover {
+    background-color: var(--hover-blue);
+
+}
+
+#standardView, #compactView {
+    background-color: rgb(165, 165, 165);
+    color: black;
+    border: none;
+}
+
+#standardView:hover, #compactView:hover {
+    background-color: var(--hover-blue);
+    color: white;
+}
+
+
 
 input::file-selector-button {
     background-color: rgb(165, 165, 165);
@@ -65,8 +99,14 @@ input::file-selector-button {
     border: none;
     padding: 8px;
     cursor: pointer;
+    border-radius: 7px;
 }
 
 #importJSON {
- color: white;
+    color: white;
+}
+
+#default_text {
+    color: white;
+    text-align: center;
 }

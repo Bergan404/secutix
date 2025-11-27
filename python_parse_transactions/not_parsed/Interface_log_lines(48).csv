@@ -1,0 +1,18 @@
+"Installment management, payment & due reminders for payment - Pay due instalments > 30 Jun 2025, 11:17",,,
+,,,
+,,,
+Message type: Archive,,,
+,,,
+,,,
+,,,
+Number,Date,Message type,Message
+1,06/30/2025 11:17 AM,Archive,"schedule:INSTALM_REMINDER/SIMULATION_MODE=false, INSTALM_REMINDER/EXCLUDED_FILES=null, SCHED_PARAM/FILE_IDS=283531, INSTALM_REMINDER/FILES_SALES_CHANNEL=10229208728441,10229208980739,10229207555326,10229207555327,10229207773717,10229207555328,10229204223437,10229204223438,10229208023565,10229207773719,10229207773715,10229207773704,10229207773692,10229207773708,10229207773691,10229207773690,10229207555329,10229207773721,10229207773695,10229207555330,10229207555331,10229207555332,10229208023563,10"
+1,06/30/2025 11:17 AM,Archive,"url: [p54bil1-1c7i9g6h.oci4.sec] [SSUMNER], batchSize: 1000"
+1,06/30/2025 11:17 AM,Info,Start of instalment payments with aliases
+1,06/30/2025 11:17 AM,Archive,Order | Instalment | Rank | File | Contact number | Email | Instalment amount | Remaining amount
+1,06/30/2025 11:17 AM,Archive,"Pay with alias called with order:351,339, instalment: 10,229,212,028,226, point of sales: 10,229,206,196,886, alias: 1538190280, contact: 33834, amount: 3517.50 CAD"
+1,06/30/2025 11:17 AM,Archive,351339 | 10229212028226 | 2 | 283531 | 33834 | rakp1229@comcast.net | 3517.50 CAD | 3517.50 CAD |
+1,06/30/2025 11:17 AM,Info,Total amount processed by batch: 3517.50 CAD
+1,06/30/2025 11:17 AM,Archive,"File 283,531, Order 351,339, Payment of Installment 10,229,212,028,226 completed successfully."
+1,06/30/2025 11:17 AM,Info,Total amount processed successfully: 3517.50 CAD
+1,06/30/2025 11:17 AM,Info,"Execution finished. 1 installments processed successfully, 0 with warnings, 0 with errors, 0 with timeout, 0 not processed."

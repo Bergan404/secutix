@@ -1,0 +1,18 @@
+"Installment management, payment & due reminders for payment - Pay due instalments > 30 Jun 2025, 11:44",,,
+,,,
+,,,
+Message type: Archive,,,
+,,,
+,,,
+,,,
+Number,Date,Message type,Message
+1,06/30/2025 11:44 AM,Archive,"url: [p54bil1-5d0f9i6g.oci4.sec] [SSUMNER], batchSize: 1000"
+1,06/30/2025 11:44 AM,Archive,"schedule:INSTALM_REMINDER/FILES_SALES_CHANNEL=10229208980740,10229206141024,10229206190513,10229206196779,10229206885511,627325444,10229204013256,10229206679963,10229206196789,10229206679959,10229206885515,10229206885512,10229206885497,10229206885503,10229206885496,10229206885495,10229206196777,10229206679960,10229206885498,10229206885507,10229206196792,10229206885506,10229206679961,10229206196778,10229206885513,10229208023567,10229206196780,10229206679962,10229206196775,10229206885504,102292068"
+1,06/30/2025 11:44 AM,Info,Start of instalment payments with aliases
+1,06/30/2025 11:44 AM,Archive,Order | Instalment | Rank | File | Contact number | Email | Instalment amount | Remaining amount
+1,06/30/2025 11:44 AM,Archive,"Pay with alias called with order:202,339, instalment: 10,229,208,630,107, point of sales: 10,229,206,930,641, alias: 461715938, contact: 22634, amount: 21507.00 USD"
+1,06/30/2025 11:44 AM,Archive,202339 | 10229208630107 | 2 | 185685 | 22634 | hitchham@gmail.com | 21507.00 USD | 21507.00 USD |
+1,06/30/2025 11:44 AM,Archive,"File 185,685, Order 202,339, Payment of Installment 10,229,208,630,107 completed successfully."
+1,06/30/2025 11:44 AM,Info,Total amount processed successfully: 21507.00 USD
+1,06/30/2025 11:44 AM,Info,Total amount processed by batch: 21507.00 USD
+1,06/30/2025 11:44 AM,Info,"Execution finished. 1 installments processed successfully, 0 with warnings, 0 with errors, 0 with timeout, 0 not processed."
