@@ -71,6 +71,10 @@ Type PowerShell
 
 Right-click → Run as Administrator
 
+```
+cd "C:\Users\oudb\Coding\secutix\json_formatter"
+```
+
 Then run this:
 ```
 Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
@@ -87,4 +91,33 @@ npx electron-builder --win
 The installer will appear in:
 ```
 dist/
+```
+
+to add custom image
+
+Create a folder in your project:
+```
+build/
+```
+
+Place your app icon in this folder named:
+```
+icon.ico
+```
+
+then update package.json
+```
+"build": {
+  "appId": "com.yourcompany.secutixhelper",
+  "productName": "Secutix Helper",
+  "icon": "build/icon.ico",
+  "win": {
+    "icon": "build/icon.ico"
+  }
+}
+```
+
+then delete the dist folder and rebuild
+```
+npx electron-builder --win
 ```
